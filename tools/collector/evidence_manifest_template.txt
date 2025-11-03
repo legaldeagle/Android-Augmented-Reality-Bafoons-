@@ -1,0 +1,32 @@
+Evidence manifest template
+
+Fill this file with details about the collection and the uploaded CID(s).
+
+---
+Collector name: [Your name or tool name]
+Date (UTC): [YYYY-MM-DD HH:MM:SS]
+Device make/model: [e.g., Samsung SM-G991B]
+Android version (if known): [e.g., 13]
+ADB connection: [USB / authorized]
+Actions taken before collection: [e.g., Airplane Mode enabled, photos taken of screens]
+Files collected:
+ - bugreport.zip  sha256: [hash]
+ - logcat.txt     sha256: [hash]
+ - sdcard_backup/ sha256: [hash or manifest path]
+ - packages_raw.txt sha256: [hash]
+ - evidence_YYYYMMDD_HHMMSS.tar.gz sha256: [hash]
+
+IPFS / Pinning info:
+ - web3.storage CID: [cid]
+ - Pinata pinned: [yes/no] (pinning CID: [cid])
+ - Mirrors / other pins: [list]
+
+Notes / redaction performed:
+ - Which files were redacted and how (e.g., regex email/phone), manual review notes.
+
+Contact for follow-up:
+ - Name: [redacted or contact]
+ - Preferred phone/email: [use separate clean device]
+
+Chain of custody notes:
+ - Who handled the device/data and timestamps of hand-off.

@@ -1,0 +1,21 @@
+Subject: Report of suspected stalking/unauthorized access — evidence attached (CID provided)
+
+To whom it may concern,
+
+I am reporting suspected unauthorized access and stalking activity involving my Android device. I have preserved and collected non-destructive device artifacts and have uploaded them to IPFS for safekeeping and analysis.
+
+Summary:
+- Date/time incident observed: [YYYY-MM-DD HH:MM]
+- Device: [make/model]
+- Android version (if known): [version]
+- Actions taken: Airplane Mode enabled, photos of screens taken, non-root ADB bugreport and logcat collected.
+
+Evidence:
+- web3.storage CID: [cid]
+- Hash of archive: [sha256]
+- Manifest file: [describe manifest content]
+
+Please advise on next steps to provide this evidence to your digital forensics team. I can provide the archive directly via secure handoff or via a secure upload if required. I am available at [contact info on a separate device].
+
+Thank you,
+[Your name]
