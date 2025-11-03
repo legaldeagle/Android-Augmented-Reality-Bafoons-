@@ -1,18 +1,21 @@
 # Android-Augmented-Reality-Bafoons-
 
-Important: this repository contains user-facing guidance for people who believe their Android phone has been compromised by stalking or spyware. The instructions below are for preserving evidence, collecting non-destructive data using ADB (non-root), securing accounts, and next steps (law enforcement and digital forensics). This is NOT a how-to for attackers and does not include instructions to bypass device security or perform rooting that may damage evidence.
+Important: this repository contains user-facing guidance for people who believe their Android phone has been compromised by stalkers, spyware, malware, exploits etc. The instructions below are for preserving evidence, collecting non-destructive data using ADB (non-root), securing accounts, and next steps (law enforcement wont help many users with digital forensics, so we will do it ourselves). This is NOT a how-to for attackers and does not include instructions to bypass device security or perform rooting that may damage evidence.
 
 ## Quick safety checklist (read this first)
 
-- If you are in immediate danger, call local emergency services first.
-- If safe to do so, put the phone in Airplane Mode and keep it powered on to preserve volatile logs.
-- Do NOT factory reset the phone if you want evidence for law enforcement.
-- Photograph the device and suspicious screens, and write down timestamps.
-- Use a separate, clean device (not the suspected phone) to change passwords and enable 2FA for important accounts.
+- If you are in immediate danger, call local emergency services, or get to a public area around more people and or cameras first.
+- Check NICB by calling, put a freeze on your credit too. You could be targetted for various reasons but its very scary when its insurance fraud and hackers are paid overseas as a persistent service to try and isolate / monitor you. they are bullies and its best to get rid of any insurance policies, find the people that are beneficiaries and report this to every possible government agency.
+- If safe to do so, put the phone in a proper metal housing - faraday cage made of stainless steel, copper, steel, or last resort is aluminum foil with 3-4 layers and the devices sitting inside must be insulated from the aluminum with tape or something. The faraday cage has to be without any gaps, cracks, and aluminum foil is only good as long as your not touching it to much, the foil wears out and gets tiny holes. The wear and pinholes will allow the signal to penetrate the enclosure. Its better to use a copper wire to ground the cage _ at a minimum keep some open metal / foil surface area for the connection to work and shift it away from the internal device(s). Airplane Mode, even powering off, is bypassed in sophisticated attacks. Pull the radio chip(s) out or cut the battery and CAUTION the capacitors can keep some charge so drain the residual power by holiding the power button- not guaranteed tho.. These hacker / criminal groups use a suit of scripts in python, perl, bash, etc etc and I prefer keep the device powered on in a faraday to preserve volatile logs, settings and keep the hackers from covering their tracks. Otherwise on some phones or tablets and laptops if you know exactly where and how to remove the bluetooth, wifi, NFC, and antennas you can secretly disconnect it while the attacker doesnt suspect it and once the device is truly offline you can perfectly preserve the evidence without risking the attacker removing or destroying the evidence. 
+- Do NOT factory reset the phone if you want evidence for your own knowledge or the court - in my experience law enforcement is not helpful. Maybe the FBI and or other agencies will help if it end goal to commit fraud, or some other awful scam. 
+- Photograph the device and suspicious screens, and write down timestamps, write down anything you can, or quickly go buy a cheap regular camera that doesnt connect to any wifi or bluetooth etc. 
+- if you buy a new phone it may be compromised in minutes or days but actually you may be better off using flash drives and try to prep the important files you need, you can also sometimes just export all the bad files and ur imoortant files.. ill make a guide for this. 
 
 ## Who this guide is for
 
 This README is for people who suspect a stalker installed spyware on their Android phone or used Google account data and/or AR devices to harass them. It focuses on non-root evidence collection (what you can collect without modifying the device), account containment, and safe next steps.
+
+I have been harrased by people I know for over a year at one point. I knew the whole time, and was lucky because in my case they did try to hurt me and i was hit by a vehicle that ran a red light and slammed into the front passenger side of my vehicle. By that time it was very obviously a setup, and ill write more about this part later. Just remember to be vigilant, dont let them continue to get away with this disgusting and evil criminal behavior. Ill share some last resort tactics to expose the bad actors, very soon. This is day one, i want to do something to help combat this. When local criminals use paid stalking in an attempt to get away with high stakes and deadly fraud schemes, there are many other bad actors too. No one should have to deal with this kind of attack, its against human rights, its also a long term and permanent effect on victims. In my case ive become very paranoid, ptsd haunts me and it drove me crazy at times. I know how it feels to be targetted, and for anyone whos knowledgable in networking, programming, its almost worse because we know its happening and we get obsessed with revealing the people, mostly friends or exes, maybe jealous or evil neighbors.. It can be connected to you personally or people you know somehow. . . 
 
 If you need an immediate, full forensic image or the device has been heavily tampered with, contact a certified digital forensics professional or law enforcement — do not attempt risky procedures that will alter or destroy evidence.
 
@@ -31,6 +34,10 @@ If you need an immediate, full forensic image or the device has been heavily tam
 ## 1) Immediate safety (do these now if you can)
 
 - If you are in danger, call emergency services now.
+- Get trusted family to help
+- Buy bear spray or get a permit to carry and train yourself.
+- Learn offensive hacking to counter and defend yourself if your in a situation like mine where its obviously a more elaborate coordinated scheme.
+- If possible buy the VR tech for augmented reality and see through walls from the attackers device to monitor the stalker and plan a way to catch them. Get leo involved if your able to go this route. 
 - If safe: enable Airplane Mode on the phone (manually is safest). Do not connect the device to unknown networks.
 - Photograph any suspicious home screen, notifications, or prompt. Save timestamps (note date/time and timezone).
 - Keep the phone powered on to preserve logs; powering off may lose volatile diagnostic data. If your priority is personal safety, powering off and seeking shelter is reasonable — weigh risks.
